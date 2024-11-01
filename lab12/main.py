@@ -65,6 +65,11 @@ class TIFDataset(Dataset):
 
         return image, self.labels[idx]
 
+def add_noise(image, noise_level=0.1):
+    noise = torch.randn_like(image) * noise_level
+    noisy_image = image + noise
+    return noisy_image.clamp(0, 1)
+
 
 def load_and_check_images(image_paths):
     """Завантаження та перевірка розмірності зображень"""
