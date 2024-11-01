@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3d50d1-ece1-4851-8a96-bed6d9b7611d" name="Changes" comment="lab 9 IIT">
-      <change afterPath="$PROJECT_DIR$/data24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kohonen_som.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    <list default="true" id="9a3d50d1-ece1-4851-8a96-bed6d9b7611d" name="Changes" comment="lab 11 IIT">
+      <change afterPath="$PROJECT_DIR$/lab12/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/data24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/data33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kohonen_som.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/kohonen_som.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/main_two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnt/1.tif" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/1.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnt/3.tif" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/3.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnt/7.tif" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/7.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_1_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1_weights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_1_weights.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_2_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2_weights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_2_weights.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_3_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3_weights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_3_weights.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_additional_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_additional_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_additional_weights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/task_additional_weights.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +80,8 @@
       <recent name="C:\Users\prod\PycharmProjects\IIT_pythonProject\mnt\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prod\PycharmProjects\IIT_pythonProject\lab10" />
+      <recent name="C:\Users\prod\PycharmProjects\IIT_pythonProject\lab11" />
       <recent name="C:\Users\prod\PycharmProjects\IIT_pythonProject" />
       <recent name="C:\Users\prod\PycharmProjects\IIT_pythonProject\mnt" />
     </key>
@@ -86,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\prod\PycharmProjects\IIT_pythonProject\lab11\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,6 +131,11 @@
       <workItem from="1729671383785" duration="280000" />
       <workItem from="1730185701575" duration="3016000" />
       <workItem from="1730190296015" duration="949000" />
+      <workItem from="1730194309798" duration="132000" />
+      <workItem from="1730268137797" duration="205000" />
+      <workItem from="1730443915174" duration="812000" />
+      <workItem from="1730445600875" duration="3621000" />
+      <workItem from="1730461936142" duration="2074000" />
     </task>
     <task id="LOCAL-00001" summary="lab 9 IIT">
       <option name="closed" value="true" />
@@ -125,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729514660163</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab 11 IIT">
+      <option name="closed" value="true" />
+      <created>1730194349190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730194349190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab 11 IIT">
+      <option name="closed" value="true" />
+      <created>1730194411315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730194411315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,9 +169,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab 9 IIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 9 IIT" />
+    <MESSAGE value="lab 11 IIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 11 IIT" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IIT_pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1730186784783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IIT_pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1730463940035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab12" />
   </component>
 </project>
